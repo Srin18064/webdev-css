@@ -1,0 +1,44 @@
+body{
+
+  /*background-color: Blue;*/
+  text-align: center;
+  font-family: Candara, sans-serif;
+}
+h1{
+  margin: 1px;
+}
+
+/*******************class Tag*********************/
+.top_container{
+  background-color: #E4F9F5;
+
+}
+
+.middle_container{
+  /* margin-left: 240px; */
+  background-color: blue;
+  /* border: 20px; */
+  width: 100px;
+  height: 100px;
+
+}
+.bottom_container{
+  /* margin-left: 440px; */
+  background-color: red;
+  width:100px;
+  height: 100px;
+  /* border: 10px; */
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.bottom_cloud{
+  position: absolute;
+}
+.top_cloud{
+  position: relative;
+  margin-left: 400px;
+  margin-top: 50px;
+}
